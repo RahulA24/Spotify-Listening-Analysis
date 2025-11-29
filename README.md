@@ -1,4 +1,4 @@
-# 🎵 Spotify AI Engineer: Data Agent and Listening Analysis
+# Spotify AI Engineer: Data Agent and Listening Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/ML-Random%20Forest-orange?style=flat&logo=scikit-learn)
