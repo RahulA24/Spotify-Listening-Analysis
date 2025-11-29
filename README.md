@@ -52,7 +52,7 @@ Spotify-Listening-Analysis/
 ├── agent/                  # Data Agent logic
 │   ├── chat_bot.py
 ├── data/
-│   ├── raw/                # Your Spotify JSON files go here
+│   ├── raw/                # Spotify JSON files go here
 ├── src/
 │   ├── etl.py              # Schema-aware loader
 │   ├── feature_eng.py      # Feature engineering utilities
